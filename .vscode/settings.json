@@ -1,0 +1,178 @@
+{
+  "window.zoomLevel": 0.5,
+  "workbench.colorTheme": "Aura Dark (Soft Text)",
+  "terminal.integrated.fontFamily": "Fira Code Retina",
+  "terminal.integrated.fontLigatures": true,
+  "editor.fontFamily": "Fira Code Retina",
+  "editor.fontLigatures": "'cv02', 'cv06', 'ss01', 'cv11', 'cv14', 'ss05', 'ss04', 'cv30'",
+  "material-icon-theme.hidesExplorerArrows": true,
+  "workbench.tree.renderIndentGuides": "none",
+  "workbench.sideBar.location": "right",
+  "workbench.layoutControl.enabled": false,
+  "workbench.startupEditor": "none",
+  "workbench.tips.enabled": false,
+  "editor.tokenColorCustomizations": {
+      "[Aura Dark (Soft Text)]": {
+        "textMateRules": [
+          {
+            "scope": "variable.parameter.function.latex",
+            "settings": {
+              "foreground": "#069DEF"
+            },
+          },
+          {
+            "scope": "variable.other.lua",
+            "settings": {
+              "foreground": "#6ebeff"
+            },
+          },
+          {
+            "scope": "support.function.any-method.lua",
+            "settings": {
+              "foreground": "#ff6eff"
+            },
+          },
+          {
+            "scope": "keyword.control.preamble.latex",
+            "settings":{
+              "foreground": "#AE61F7"
+            }
+          },
+          {
+            "scope": "punctuation.definition.string.begin.latex",
+            "settings": {
+              "foreground": "#2DE4C2",
+            }
+          },
+          {
+            "scope": "punctuation.definition.string.end.latex",
+            "settings": {
+              "foreground": "#2DE4C2",
+            }
+          },
+          {
+            "scope": "punctuation.math.operator.latex",
+            "settings": {
+              "foreground": "#B4C284",
+            }
+          },
+          {
+            "scope": "constant.character.math.tex",
+            "settings": {
+              "foreground": "#C5E284",
+            }
+          },
+          {
+            "scope": "constant.other.general.math.tex",
+            "settings": {
+              "foreground": "#9CF7C9",
+            }
+          },
+          {
+            "scope": "keyword.control.table.cell.latex",
+            "settings": {
+              "fontStyle": "bold"
+            }
+          },
+          {
+            "scope": "support.function.be.latex",
+            "settings": {
+              "foreground": "#F500C8",
+            }
+          },
+          {
+            "scope": "variable.other.latex3.latex",
+            "settings": {
+              "foreground": "#ffc179",
+            }
+          },
+          {
+            "scope": "support.class.latex",
+            "settings": {
+              "foreground": "#1FA6C1",
+            }
+          },
+          {
+            "scope": "support.function.general.tex",
+            "settings": {
+              "foreground": "#F3ADA5",
+            }
+          },
+          {
+            "scope": "markup.bold.textbf.latex",
+            "settings": {
+              "foreground": "#ffffff",
+              "fontStyle": "bold"
+            }
+          },
+          {
+            "scope": "log.error",
+            "settings": {
+              "foreground": "#FF0000",
+              "fontStyle": "bold",
+            }
+          },
+          {
+            "scope": "log.warning",
+            "settings": {
+              "foreground": "#ba5700",
+              "fontStyle": "bold",
+            }
+          },
+          {
+            "scope": "log.info",
+            "settings": {
+              "foreground": "#2FB16A",
+              "fontStyle": "bold",
+            }
+          },
+          {
+            "scope": "log.constant",
+            "settings": {
+              "foreground": "#069DEF",
+              "fontStyle": "",
+            }
+          },
+          {
+            "scope": "log.string",
+            "settings": {
+              "foreground": "#667F8F",
+              "fontStyle": "italic",
+            }
+          },
+          {
+            "scope": "log.date",
+            "settings": {
+              "foreground": "#fed13f",
+              "fontStyle": "",
+            }
+          },
+        ]
+      },
+    },
+  "workbench.colorCustomizations": {
+    "terminal.background": "#15141B",
+    "statusBar.background": "#15141B",
+    "sideBar.background": "#15141B",
+    "scrollbar.shadow": "#00000000"
+  },
+  "editor.guides.indentation": false,
+  "editor.minimap.autohide": true,
+  "editor.renderWhitespace": "none",
+  "editor.renderLineHighlight": "line",
+  "editor.lightbulb.enabled": "off",
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.scrollbar.vertical": "hidden",
+  "editor.overviewRulerBorder": false,
+  "editor.cursorBlinking": "phase",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.lineHeight": 1.4,
+  "explorer.compactFolders": false,
+  "files.autoSave": "afterDelay",
+  "terminal.integrated.lineHeight": 1.4,
+  "terminal.integrated.fontSize": 15,
+  "apc.font.family": "Fira Code Retina",
+  "apc.electron": {
+    "opacity": 0.5,
+  },
+}
